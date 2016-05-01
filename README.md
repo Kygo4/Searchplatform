@@ -1,0 +1,3 @@
+# Searchplatform
+Searchproject
+利用JSONP与百度服务器交互实现搜索功能
